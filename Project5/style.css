@@ -1,0 +1,48 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: indigo;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #243447;
+    margin-bottom: 10px;
+}
+
+ul {
+    padding-left: 25px;
+}
+
+footer {
+    background-color: #243447;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
