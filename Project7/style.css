@@ -1,0 +1,42 @@
+
+:root {
+    --main-color: #243447;
+    --bg-color: #f4f4f4;
+    --text-color: #333;
+    --font-style: Arial, sans-serif;
+}
+
+body {
+    font-family: var(--font-style);
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+}
+
+header {
+    background-color: var(--main-color);
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    color: var(--main-color);
+    font-size: 23px;
+}
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
