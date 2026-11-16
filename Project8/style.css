@@ -1,9 +1,11 @@
 
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
 }
+
 nav {
     background-color: #243447;
     color: white;
@@ -14,10 +16,12 @@ nav {
     justify-content: space-around;
     align-items: center;
 }
+
 nav a {
     color: white;
     text-decoration: none;
 }
+
 header {
     background-color: #34495e;
     color: white;
@@ -30,14 +34,17 @@ section {
     margin: 20px;
     background-color: white;
 }
+
 .card {
     width: 350px;
     position: relative;
 }
+
 .card img {
     width: 100%;
     display: block;
 }
+
 .overlay {
     position: absolute;
     bottom: 0;
@@ -48,6 +55,7 @@ section {
     padding: 10px;
     box-sizing: border-box;
 }
+
 footer {
     background-color: #243447;
     color: white;
